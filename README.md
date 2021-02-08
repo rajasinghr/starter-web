@@ -19,3 +19,4 @@ Sample website with plenty of files for demos
 
 
 ##How to contribute
+You can clone the git repo and contribute
